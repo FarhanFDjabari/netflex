@@ -1,6 +1,6 @@
-# netflix_clone
+# netflex
 
-A netflix clone made in flutter
+A netflix clone made in flutter for academic study purposes
 
 ## Getting Started
 
